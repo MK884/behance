@@ -11,5 +11,6 @@ export const getColumsNum = () => {
     return 3;
   } else {
     return 2;
+    
   }
 };
